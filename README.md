@@ -1,6 +1,6 @@
 ## USC Blockchain
 
-https://uscscan.io/uscscan-logo.png
+![Alt text]([image link](https://uscscan.io/uscscan-logo.png))
 
 Official implementation of the Ultronex protocol.
 
